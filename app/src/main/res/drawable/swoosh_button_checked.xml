@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <shape xmlns:android="http://schemas.android.com/apk/res/android">
-    <solid android:color="#64000000"    />// First 64 is opacity or alpha value and rest 6 digits refer to color
+    <solid android:color="#592c3f"/>
     <stroke android:color="@android:color/white"
-            android:width="2dp" />
+        android:width="3dp"/>
 </shape>
